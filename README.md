@@ -2,7 +2,7 @@
 
 ⭐ This code has been completely released ⭐ 
 
-⭐ our [article](https://ieeexplore.ieee.org/abstract/document/10535336)) ⭐ 
+⭐ our [article](https://ieeexplore.ieee.org/abstract/document/10535336) ⭐ 
 
 If our code is helpful to you, please cite:
 

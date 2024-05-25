@@ -15,7 +15,6 @@ If our code is helpful to you, please cite:
   volume={17},
   number={},
   pages={6174-6188},
-  keywords={Frequency-domain analysis;Feature extraction;Convolutional neural networks;Noise;Convolution;Transformers;Image segmentation;Building change detection (BCD);dual-frequency feature encoder (DFFE);frequency domain;high–low frequency information;remote sensing (RS) image processing},
   doi={10.1109/JSTARS.2024.3401581}}
 ```
 
